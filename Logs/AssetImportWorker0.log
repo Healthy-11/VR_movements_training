@@ -1,0 +1,200 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.24f1 (79c78de19888) revision 7980941'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Core' Language: 'fr' Physical Memory: 16233 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.24f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/lehni/OneDrive/Bureau/Apps/movementsVR
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64872
+Successfully changed project path to: C:/Users/lehni/OneDrive/Bureau/Apps/movementsVR
+C:/Users/lehni/OneDrive/Bureau/Apps/movementsVR
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 79.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.24f1 (79c78de19888)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/lehni/OneDrive/Bureau/Apps/movementsVR/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.14.7111
+Shader 'GoogleVR/Demos/VideoDemo StereoShader': fallback shader 'Mobile/VertextLit' not found
+Shader 'GoogleVR/Demos/VideoDemo InsideShader': fallback shader 'Mobile/VertextLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56924
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002710 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 43.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.724 seconds
+Domain Reload Profiling:
+	ReloadAssembly (725ms)
+		BeginReloadAssembly (78ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (555ms)
+			LoadAssemblies (75ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (179ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (210ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (44ms)
+				BeforeProcessingInitializeOnLoad (20ms)
+				ProcessInitializeOnLoadAttributes (104ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006030 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.323 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1324ms)
+		BeginReloadAssembly (179ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (1060ms)
+			LoadAssemblies (112ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (341ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (398ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (101ms)
+				ProcessInitializeOnLoadAttributes (265ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'GoogleVR/Demos/VideoDemo StereoShader': fallback shader 'Mobile/VertextLit' not found
+Shader 'GoogleVR/Demos/VideoDemo InsideShader': fallback shader 'Mobile/VertextLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1636 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.6 MB.
+System memory in use after: 73.7 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2068.
+Total: 3.533200 ms (FindLiveObjects: 0.180600 ms CreateObjectMapping: 0.057600 ms MarkObjects: 3.201400 ms  DeleteObjects: 0.092500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/01-Museum.unity
+  artifactKey: Guid(6c9705869a5f8a845bdabcf9be8531c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/01-Museum.unity using Guid(6c9705869a5f8a845bdabcf9be8531c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cf36ed8f5871ac6de813a09b229fbe4') in 0.014464 seconds 
+  Import took 0.017304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(1f626f1ba5155ca48809262a39bc748a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(1f626f1ba5155ca48809262a39bc748a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73824b3b0c38393e69382d7ed34c6d3f') in 0.002091 seconds 
+  Import took 0.004791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 293.295186 seconds.
+  path: Assets/GoogleVR/Resources/GvrAudioMixer.mixer
+  artifactKey: Guid(ca71259be6348485abbe393157796cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Resources/GvrAudioMixer.mixer using Guid(ca71259be6348485abbe393157796cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d7cec1d395838429f752ddca122325') in 0.043222 seconds 
+  Import took 0.046830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 957.714498 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal
+  artifactKey: Guid(3bee8a214bb054df5965a78f7323ab8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal using Guid(3bee8a214bb054df5965a78f7323ab8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2c23472df2d92331e17ccffbc5654e7') in 0.010432 seconds 
+  Import took 0.024491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.382058 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/ControllerUtils.cs
+  artifactKey: Guid(8358cf789a848412fbb10ba05c4f3fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/ControllerUtils.cs using Guid(8358cf789a848412fbb10ba05c4f3fce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb6e9a88dd4cfa234bb87eea16099ec7') in 0.006498 seconds 
+  Import took 0.009966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.591360 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/ControllerState.cs
+  artifactKey: Guid(9159532a8a3d946aa9df74e771243e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/ControllerState.cs using Guid(9159532a8a3d946aa9df74e771243e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd1c750169801d61162cbfd187eac46') in 0.003126 seconds 
+  Import took 0.006477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.367424 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviderFactory.cs
+  artifactKey: Guid(9f9210011b71142d5966eec2db6cc696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviderFactory.cs using Guid(9f9210011b71142d5966eec2db6cc696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4368c9e1db4e692ca859dc6dac3a9c4f') in 0.003390 seconds 
+  Import took 0.006338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 133.725152 seconds.
+  path: Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviderFactory.cs
+  artifactKey: Guid(9f9210011b71142d5966eec2db6cc696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/Scripts/Controller/Internal/ControllerProviderFactory.cs using Guid(9f9210011b71142d5966eec2db6cc696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '152d76813c3e698c5e689eba5839c98d') in 0.002203 seconds 
+  Import took 0.005356 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
